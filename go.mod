@@ -1,4 +1,4 @@
-module pimpminers-conf-api-go
+module github.com/getpimp/pimpminers-conf-api-go
 
 go 1.14
 
